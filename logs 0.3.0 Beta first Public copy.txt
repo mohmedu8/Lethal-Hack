@@ -1,0 +1,11 @@
+add health 
+add control speed 
+add mode menu
+add Freeze Time
+add unlimted Battery 
+add no fall damage 
+add no locked door 
+add unlimted stamina
+add no twoHanded
+add unlimted Monye
+no sinking
